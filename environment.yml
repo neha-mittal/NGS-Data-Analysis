@@ -1,0 +1,4 @@
+name: myvenv
+channels:
+  - defaults
+prefix: /Users/neha/opt/anaconda3/envs/myvenv
